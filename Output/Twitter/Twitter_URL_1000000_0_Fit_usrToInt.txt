@@ -1,0 +1,4 @@
+0	migre.me
+1	bit.ly
+2	tinyurl
+3	t.co/
